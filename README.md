@@ -18,7 +18,7 @@
       <br/>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=loegaire&theme=omni&utcOffset=8" alt="Productive Time" />
       <br/>
-      <img src="![My GitHub stats](https://github-readme-stats.zcy.dev/api?username=loegaire&show_icons=true&theme=omni)"/>
+      <img src="[![My GitHub stats](https://github-readme-stats.zcy.dev/api?username=loegaire&theme=omni)](https://github.com/anuraghazra/github-readme-stats) "/>
     </td>
   </tr>
 </table>
