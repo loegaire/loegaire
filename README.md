@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&weight=600&size=27&letterSpacing=1px&pause=1000&color=B6F7B7&vCenter=true&multiline=true&width=480&height=110&lines=+Welcome+to+my+Github+profile%2C;Take+a+look+at+my+projects)](https://git.io/typing-svg)
-[![Anurag's GitHub stats](https://github-readme-stats.zcy.dev/api?username=loegaire)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+
 <!---
 letMeBorrowUrCode/letMeBorrowUrCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
