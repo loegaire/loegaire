@@ -2,7 +2,7 @@
 
 ![My GitHub stats](https://github-readme-stats.zcy.dev/api?username=loegaire&show_icons=true&theme=omni)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=loegaire&theme=tokyonight&mode=weekly&background=45%2C011119%2C1A002B&border=EAA6EB)](https://git.io/streak-stats)
+[![GitHub Streak](https://ghstats.onuralpsezer.com?user=loegaire&theme=tokyonight&border=E8B7EB&background=45%2C060B16%2C2E1E32)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=loegaire&color=363845&style=flat-square)
 <!---
