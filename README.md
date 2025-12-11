@@ -22,8 +22,6 @@
     </td>
   </tr>
 </table>
-my github stats shows normally when in pure markdown but doesnt render in this html block
-
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=loegaire&color=363845&style=flat-square" alt="Visitor Count" />
