@@ -3,6 +3,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loegaire&theme=omni)
 
+![Metrics](https://metrics.lecoq.io/loegaire?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&habits=1)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=loegaire&theme=omni&utcOffset=8)
 
 ![My GitHub stats](https://github-readme-stats.zcy.dev/api?username=loegaire&show_icons=true&theme=omni)
