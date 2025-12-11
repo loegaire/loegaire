@@ -6,20 +6,19 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%" valign="top">
-      <img src="https://metrics.lecoq.io/loegaire?template=classic&base=0&languages=1&achievements=1&achievements.threshold=B&config.padding=10" alt="Languages and Trophies" />
+    <td align="center" width="50%">
+      <img src="https://metrics.lecoq.io/loegaire?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&achievements=1&achievements.threshold=B&habits=0&config.padding=10" alt="Languages and Trophies" />
     </td>
-    
-    <td align="center" width="50%" valign="top">
+    <td align="center" width="50%">
       <img src="https://ghstats.onuralpsezer.com?user=loegaire&theme=tokyonight&border=E8B7EB&background=45%2C060B16%2C2E1E32&hide_border=true" alt="Streak Stats" />
-      <br/><br/>
+      <br/>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=loegaire&theme=omni&utcOffset=8" alt="Productive Time" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/loegaire?template=classic&base=0&isocalendar=1&isocalendar.duration=half-year&config.padding=0" alt="Isometric Calendar" />
+  <img src="https://metrics.lecoq.io/loegaire?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.padding=0" alt="Isometric Calendar" />
 </div>
 
 <div align="center">
