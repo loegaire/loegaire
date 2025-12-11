@@ -21,9 +21,7 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/loegaire?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.padding=0" alt="Isometric Calendar" />
-</div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=loegaire&color=363845&style=flat-square" alt="Visitor Count" />
