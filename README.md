@@ -7,13 +7,18 @@
   <tr>
     <td align="center" width="50%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loegaire&theme=omni" alt="Profile Details" alt="Languages and Trophies" />
+      <br/>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=loegaire&theme=omni"/>
+      <br/>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=loegaire&theme=omni"/>
+      <br/>   
     </td>
     <td align="center" width="50%">
       <img src="https://ghstats.onuralpsezer.com?user=loegaire&theme=tokyonight&border=E8B7EB&background=45%2C060B16%2C2E1E32&hide_border=true" alt="Streak Stats" />
       <br/>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=loegaire&theme=omni&utcOffset=8" alt="Productive Time" />
+      <br/>
+      <img src="![My GitHub stats](https://github-readme-stats.zcy.dev/api?username=loegaire&show_icons=true&theme=omni)"/>
     </td>
   </tr>
 </table>
