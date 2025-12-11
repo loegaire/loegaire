@@ -28,6 +28,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=loegaire&color=363845&style=flat-square" alt="Visitor Count" />
 </div>
+[![Anurag's GitHub stats](https://github-readme-stats.zcy.dev/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) 
 <!---
 letMeBorrowUrCode/letMeBorrowUrCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
