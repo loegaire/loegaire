@@ -2,6 +2,8 @@
 
 ![My GitHub stats](https://github-readme-stats.zcy.dev/api?username=loegaire&show_icons=true&theme=omni)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=loegaire&theme=tokyonight&mode=weekly&background=45%2C011119%2C1A002B&border=EAA6EB)](https://git.io/streak-stats)
+
 ![](https://komarev.com/ghpvc/?username=loegaire&color=363845&style=flat-square)
 <!---
 letMeBorrowUrCode/letMeBorrowUrCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
