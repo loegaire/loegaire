@@ -3,12 +3,9 @@ letMeBorrowUrCode/letMeBorrowUrCode is a ✨ special ✨ repository because
 this README.md appears on your GitHub profile.
 -->
 
-<!-- ───────────── HEADER ───────────── -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a1b27,50:7aa2f7,100:bb9af7&text=loegaire&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=builder%20%C2%B7%20tinkerer%20%C2%B7%20lifelong%20learner&descSize=18&descAlignY=58&animation=fadeIn" alt="loegaire banner" />
-
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&height=40&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;I+build+things+and+break+them+on+purpose;Take+a+look+at+my+projects+%E2%86%93" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&height=40&lines=Welcome+to+my+GitHub+profile;Take+a+look+at+my+projects" alt="Typing intro" />
   </a>
 
   <br />
@@ -20,30 +17,6 @@ this README.md appears on your GitHub profile.
 
 <br />
 
-<!-- ───────────── ABOUT ───────────── -->
-## 👾 About me
-
-```yaml
-name:     loegaire
-focus:    open source, side projects, and learning in public
-currently: exploring new ideas and shipping small tools
-ask_me_about: [code, tooling, debugging]
-fun_fact: "I like borrowing code, but I always give credit."
-```
-
-<!-- ───────────── TECH STACK ───────────── -->
-## 🧰 Tech stack
-
-<div align="center">
-  <!-- Edit this list to match your stack: https://github.com/tandpfun/skill-icons#icons-list -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,python,js,ts,html,css,nodejs,docker&theme=dark&perline=12" alt="Tech stack" />
-  </a>
-</div>
-
-<br />
-
-<!-- ───────────── STATS ───────────── -->
 ## 📊 GitHub at a glance
 
 <div align="center">
@@ -63,31 +36,8 @@ fun_fact: "I like borrowing code, but I always give credit."
 
 <br />
 
-<!-- ───────────── ACTIVITY ───────────── -->
 ## 📈 Contribution activity
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=loegaire&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=c0caf5&area=true&area_color=7aa2f7&custom_title=Contributions%20over%20the%20last%2031%20days" alt="Contribution graph" />
-</div>
-
-<br />
-
-<!-- ───────────── FEATURED ───────────── -->
-## 📌 Featured projects
-
-<div align="center">
-  <a href="https://github.com/loegaire/letMeBorrowUrCode">
-    <img src="https://github-readme-stats.zcy.dev/api/pin/?username=loegaire&repo=letMeBorrowUrCode&theme=tokyonight&hide_border=true&border_radius=12&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" alt="letMeBorrowUrCode" />
-  </a>
-  <!-- Add more pins by copying the block above and changing &repo=... -->
-</div>
-
-<br />
-
-<!-- ───────────── FOOTER ───────────── -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Open%20to-collaboration-9ece6a?style=for-the-badge&labelColor=1a1b27" alt="Open to collaboration" />
-  <br /><br />
-  <sub>Thanks for stopping by. If something here helped you, drop a ⭐</sub>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:bb9af7,50:7aa2f7,100:1a1b27&section=footer" alt="footer wave" />
 </div>
